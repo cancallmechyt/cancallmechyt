@@ -1,10 +1,10 @@
 ### Hi, I'm Chayut 👋
 
-I'm Maksym Rudnyi a Senior Software Engineer with more than 10 years of experience and Content Creator on [YouTube UA](https://www.youtube.com/@MaksymRudnyi), [YouTube EN](https://youtube.com/@TravelsCode). Experienced both in Front-end and Back-end technologies. I Spend most of my time coding outstanding projects or recording tutorials.
+I'm Chayut Saengsuriyotai a Senior Programmer with third-year computer science student at Rangsit University. Experienced both in Front-end , Back-end and Full-Stack technologies. 
 
 #### Top Technologies
 
-[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)[![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)
+[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)
 
 ### Bizness
 - :paperclip: [My Resume](https://drive.google.com/file/d/1FJ-lnctBDJG7HVRdYTpmoQULNVZc-FxT/view?usp=sharing)
@@ -20,5 +20,5 @@ I'm Maksym Rudnyi a Senior Software Engineer with more than 10 years of experien
 </div>
 
 ### Profile views counter 👁️‍🗨️
-[![Maksym Rudnyi profile views](https://u8views.com/api/v1/github/profiles/7869344/views/day-week-month-total-count.svg)](https://u8views.com/github/MaksymRudnyi)
+[![profile views](https://u8views.com/api/v1/github/profiles/7869344/views/day-week-month-total-count.svg)](https://u8views.com/github/cancallmechyt)
 
