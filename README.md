@@ -10,7 +10,7 @@
  
  🔭 I’m currently studying on **Rangsit University**
  
- 🌱 I’m currently learning **Docker, Tailwind**
+ 🌱 I’m currently learning **Typescript**
 
  ⚡ Fun fact **Bighug from my cat**
 
