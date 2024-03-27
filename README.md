@@ -12,7 +12,7 @@
  
  🌱 I’m currently learning **Typescript**
 
- ⚡ Fun fact **Bighug from my cat**
+ ⚡ Fun fact **Bighug from my cat.**
 
 <br/>
 </div>
