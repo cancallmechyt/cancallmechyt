@@ -2,15 +2,15 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Chayut+Saengsuriyotai!;" />
 </h1>
 
-<h3 align="center">Junior Programmer</h3>
+<h3 align="center">Junior Software Engineer</h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently studying on **Rangsit University**
+ 🔭 I graduated from **Rangsit University**
  
- 🌱 I’m currently learning **Ruby**
+ 🌱 I’m currently learning **Android Studio Kotlin**
 
  ⚡ Fun fact **Bighug from my cat**
 
